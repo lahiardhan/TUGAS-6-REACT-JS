@@ -1,0 +1,11 @@
+#kontak_bg {
+	background-image: url("https://access2arts.org.au/wp-content/uploads/2018/07/pexels-photo-1020315-1024x712.jpeg");
+	height: 730px;
+}
+
+.kontak {
+	color: black;
+	text-align: center;
+	margin-top: 208px;
+	background-color: white;
+}
